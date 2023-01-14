@@ -4,13 +4,8 @@
 
 <br />
 <div align="center">
-  <h3 align="center">VEHTOSHARNIK</h3>
-  <a href="https://vehtosharnik.antwandesign.com/">
-    <img align="center" src="https://vehtosharnik.antwandesign.com/vehtosharnik.svg" alt="Logo" width="80" height="80">
-    </a>
-  </a>
-  <h6 align="center">SoftUni React Project</h3>
-  <a href="https://vehtosharnik.antwandesign.com/">https://vehtosharnik.antwandesign.com/</a>
+
+  <h6 align="center">SoftUni Back-End Project</h3>
 
 
 </div>
