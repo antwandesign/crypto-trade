@@ -90,7 +90,7 @@ Exam project for a server side rendered website with authentication and authoriz
 
 Antoan Shiyachki - [@antwandesign](https://facebook.com/daantwan) - antwandesign@gmail.com
 
-Project Link: [https://github.com/antwandesign/softuni-react-app](https://github.com/antwandesign/softuni-react-app)
+Project Link: [https://github.com/antwandesign/crypto-trade](https://github.com/antwandesign/crypto-trade)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
